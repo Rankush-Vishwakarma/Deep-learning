@@ -1,5 +1,5 @@
 # Deep-learning
-In this repo I have tried to present different Deep learning algorithms with there implementation.
+In this repo I have tried to present different Deep learning algorithms with there implementation and explaination.
 
 <h2>Neural Network</h2>
   - an independent calculation body can be called as neurons . The neural network is an algorithm that try to mimic the human brain. Neural network could be explain as the layer of single or multiple neurons combined together. 
