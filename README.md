@@ -24,7 +24,7 @@ This is very simple Example having one feature and only single neuron or activat
 
 ## Now let's try to understand how multiple neuron works, what is input layer?, what is hidden layer ? ,and what is output layer?.
 
-Let's say we have two feature Price,shipping cost, marketing, and material now one way could be to minimize and extract some important thing from this feature like,
+Let's say we have four feature Price,shipping cost, marketing, and material now one way could be to minimize and extract some important thing from this feature like,
 # important feature means the factors that could help in order to predict the probabolity of being a top-seller.
   ### Affordibity = Price + Shipping Cost
   ### Awareness  = Marketing
